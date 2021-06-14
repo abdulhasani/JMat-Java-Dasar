@@ -16,6 +16,7 @@ public class DeklarasiVariabel1 {
         // Deklarasi Varibel dan Insialisasi Cara 1
 
         //Proses Deklarasi varibel
+        //Ini variable
         byte angka;
         short nilai;
         int uang;
